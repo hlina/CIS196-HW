@@ -4,6 +4,6 @@ Find me in app/views/home/index.html.erb
 
 Lina Huang".
 
-Since Github, Heroku, and Rails are all very new to me, I had many struggles understanding and following the instructions. However, by going to office hours and receiving much help and guidance, everything went smoothly.
+Since Github, Heroku, and Rails are all very new to me, I had many struggles understanding and following the instructions. However, by going to office hours and receiving much help and guidance, everything went smoothly. For instance, when I was pushing to github, I did not add and commit first, making it not work.
 
 http://protected-springs-3909.herokuapp.com/
